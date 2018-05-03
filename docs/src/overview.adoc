@@ -1,0 +1,23 @@
+== Overview
+
+Nothing here yet. Please come again later.
+
+.Visualization
+[plantuml, visualize, png]
+----
+@startuml
+' !include plantuml-skinparams.puml
+
+legend
+**Legend**
+
+A <&arrow-right> B: Komponente oder Schnittstelle A benutzt Komponente B
+end legend
+
+actor "You" as usr
+participant "Documentation" as sys
+
+usr -> sys: read
+sys --> usr: Nothing
+@enduml
+----

@@ -1,0 +1,19 @@
+= Architecture Template
+Architecture Template <architecture-template@tempuri.com>
+
+include::src/config.adoc[]
+
+// horizontal line
+***
+
+// numbering from here on
+:numbered:
+
+<<<<
+// 1. Overview
+include::src/overview.adoc[]
+
+<<<<
+// A. Pet Store API
+include::src/pet-store.adoc[]
+

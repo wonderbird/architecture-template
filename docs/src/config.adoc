@@ -1,0 +1,5 @@
+// asciidoc settings
+// =================
+
+:toc:
+:imagesdir: ./images

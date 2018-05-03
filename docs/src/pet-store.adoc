@@ -1,0 +1,16 @@
+[appendix]
+// Die von swagger2markup generierten Dokumente haben eine level 0 Heading
+// Hier werden die Headings so angepasst, dass sie zur aktuellen Position passen.
+//
+// Siehe:
+//   https://mrhaki.blogspot.de/2016/09/awesome-asciidoctor-change-level-offset.html
+:leveloffset: +1
+
+include::../../target/generated-asciidoc/pet-store/overview.adoc[]
+include::../../target/generated-asciidoc/pet-store/paths.adoc[]
+include::../../target/generated-asciidoc/pet-store/definitions.adoc[]
+include::../../target/generated-asciidoc/pet-store/security.adoc[]
+
+// Reset level offset.
+:leveloffset: -1
+// Or use :leveloffset: 0
