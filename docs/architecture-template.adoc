@@ -1,10 +1,7 @@
 = Architecture Template
-Architecture Template <architecture-template@tempuri.com>
+Architecture Template Author <architecture-template@tempuri.com>
 
 include::src/config.adoc[]
-
-// horizontal line
-***
 
 // numbering from here on
 :numbered:

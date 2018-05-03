@@ -6,12 +6,12 @@ Nothing here yet. Please come again later.
 [plantuml, visualize, png]
 ----
 @startuml
-' !include plantuml-skinparams.puml
+!include plantuml-skinparams.puml
 
 legend
 **Legend**
 
-A <&arrow-right> B: Komponente oder Schnittstelle A benutzt Komponente B
+A <&arrow-right> B: component or interface A uses component B
 end legend
 
 actor "You" as usr

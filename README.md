@@ -1,5 +1,5 @@
-# ArchitectureTemplate
-Template Project for describing software architecture using AsciiDoc.
+# Architecture Template
+Template project for describing software architecture using AsciiDoc.
 
 ## Dependencies
 

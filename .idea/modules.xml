@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/architecturetemplate.iml" filepath="$PROJECT_DIR$/architecturetemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture-template.iml" filepath="$PROJECT_DIR$/architecture-template.iml" />
     </modules>
   </component>
 </project>
